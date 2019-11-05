@@ -1,0 +1,14 @@
+.heading {
+    grid-column: 1 / -1;  /*Making title take full space horizontally so that @media wouldnt be needed, but it would still be responsive*/
+    grid-row: 2 / 3;
+    text-align: center;
+    
+    &-text {
+        font-family: 'Great Vibes', cursive;
+        font-size: size(xl) * 2;
+        font-weight: lighter;
+        letter-spacing: 0.5rem;
+    }
+    
+    
+}
