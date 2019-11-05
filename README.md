@@ -1,2 +1,2 @@
 # Classy-Store-build
-Clothes shop SASS html 
+Clothes shop SASS html slideshow responsive
